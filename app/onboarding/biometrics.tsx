@@ -1,4 +1,3 @@
-});
 import React, { useState } from 'react';
 import { View, StyleSheet, Alert, ScrollView } from 'react-native';
 import { Text, TextInput, Button, Card, SegmentedButtons } from 'react-native-paper';
@@ -155,3 +154,4 @@ const styles = StyleSheet.create({
   button: {
     marginTop: 10,
   },
+});
